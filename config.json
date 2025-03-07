@@ -1,0 +1,8 @@
+{
+    "image": "input1.jpg",
+    "text": "Lioness",
+    "music": "background_music.mp3",
+    "subtitles": "A majestic lioness stands proudly, scanning the horizon across the vast savanna.",
+    "duration": 7,
+    "output_video": "output/final_video.mp4"
+}
